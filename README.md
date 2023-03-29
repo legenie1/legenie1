@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legenie1&label=Profile%20views&color=0e75b6&style=flat" alt="legenie1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legenie1" alt="legenie1" /></a> </p>
+
 ![image](https://user-images.githubusercontent.com/72471055/228524379-c9c49282-0479-47f4-83cf-c1ef1be5dc61.png)
 
 
